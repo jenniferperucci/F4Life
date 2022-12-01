@@ -4,7 +4,7 @@ Landing page de uma empresa especializada em moradias pensadas para estudantes u
 # Tecnologias Utilizadas:
 - JavaScript 
 - HTML
-- Styled Components
+- CSS
 
 # Acesse o site:
 
